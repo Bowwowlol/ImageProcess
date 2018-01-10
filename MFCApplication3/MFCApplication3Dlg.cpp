@@ -10,7 +10,7 @@
 #ifdef _DEBUG
 #define new DEBUG_NEW
 #endif
-#123
+//123
 
 // 對 App About 使用 CAboutDlg 對話方塊
 
